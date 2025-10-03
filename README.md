@@ -1,7 +1,7 @@
 # 🧠 Gemini AI Shopping Assistant (PHP)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Project Views](http://h1dawood.com/github/view_counter.php?project=Ai-Shopping-Assistant)
+![Project Views](https://h1dawood.com/github/view_counter.php?project=Ai-Shopping-Assistant&label=views&color=blue&labelColor=555&logo=eye)
 An intelligent shopping assistant powered by Google's Gemini AI and PHP. This application uses natural language processing to understand user queries in Arabic and dynamically filter products from a local catalog.
 
 The entire application in a tow files  `index.php` , `server.php` file, making it incredibly simple to set up and run.
